@@ -1,5 +1,5 @@
 # forcecons-sim
-distributed consensus simulation https://sbagency.github.io/forcecons-sim/
+distributed consensus simulation https://noailabs.github.io/forcecons-sim/
 
 ### how simulation works
 nodes:
